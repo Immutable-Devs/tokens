@@ -1,14 +1,14 @@
 {
-  "name": "9mm Swap Default List",
-  "timestamp": "2022-01-26T11:45:09Z",
+  "name": "9mm pulse Default List",
+  "timestamp": "2022-02-26T11:45:09Z",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
   "logoURI": "https://dex.9mm.pro/images/logoWithText-dark.png",
-  "keywords": ["9mm", "default"],
+  "keywords": ["9mm pulse", "default"],
   "tokens": [
     {
       "name": "NANANA",
