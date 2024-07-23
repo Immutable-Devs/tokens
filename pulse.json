@@ -75,14 +75,6 @@
       "logoURI": "https://tokens.9mm.pro/pulse/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C.png"
     },
     {
-      "name": "pWETH",
-      "symbol": "pWETH",
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "chainId": 369,
-      "decimals": 18,
-      "logoURI": "https://tokens.9mm.pro/pulse/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
-    },
-    {
       "name": "WPLS",
       "symbol": "WPLS",
       "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
